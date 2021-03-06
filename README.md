@@ -1,3 +1,5 @@
+[![CI](https://github.com/rao-donut/tribal-hunter-translate-ja/actions/workflows/checkJSON.yml/badge.svg)](https://github.com/rao-donut/tribal-hunter-translate-ja/actions/workflows/checkJSON.yml)
+
 # tribal-hunter-translate-ja
 
 Tribal Hunterの日本語訳公式リポジトリです。
