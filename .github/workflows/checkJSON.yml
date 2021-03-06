@@ -27,9 +27,9 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Check JSON en
-        run: for i in `find en -type f -name '*.txt'`;do echo "\n${i}" && sed "$(($(wc -l < $i) - 1)),\$s/,//g" $i | jq type;done
+        run: for i in `find en -type f -name '*.txt'`;do echo -e "\n${i}" && sed "$(($(wc -l < $i) - 1)),\$s/,//g" $i | jq type;done
         
       # Runs a single command using the runners shell
       - name: Check JSON ja
-        run: for i in `find ja -type f -name '*.txt'`;do echo "\n${i}" && sed "$(($(wc -l < $i) - 1)),\$s/,//g" $i | jq type;done
+        run: for i in `find ja -type f -name '*.txt'`;do echo -e "\n${i}" && sed "$(($(wc -l < $i) - 1)),\$s/,//g" $i | jq type;done
         
