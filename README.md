@@ -1,3 +1,5 @@
+[![CI](https://github.com/rao-donut/tribal-hunter-translate-ja/actions/workflows/checkJSON.yml/badge.svg)](https://github.com/rao-donut/tribal-hunter-translate-ja/actions/workflows/checkJSON.yml)
+
 # tribal-hunter-translate-ja
 
 Tribal Hunterの日本語訳公式リポジトリです。
@@ -9,6 +11,8 @@ Tribal Hunterの日本語訳公式リポジトリです。
 ゲームは次のURLからダウンロードできます！
 
 [Steam - Tribal Hunter](https://store.steampowered.com/app/1379870/Tribal_Hunter/)
+
+また、作業をする際に困った点などがございましたら[こちら](https://twitter.com/RIORAO)のDMにご連絡ください。
 
 ### 1. Gitが分かる人向け
 
@@ -49,7 +53,12 @@ Name: username
 
 ### 2. Gitがわからない人向け
 
-#### 2-1. 翻訳を行う
+#### 2-1. ファイルのダウンロード
+
+「Code」と書かれた緑色のボタンをクリックし、「Download ZIP」を選択して現状のマスターファイルをダウンロードします。
+ファイルは逐次更新されますので定期的に新しいマスターファイルをダウンロードしてください。
+
+#### 2-2. 翻訳を行う
 
 ファイルは `JSON` というフォーマットで記述されており、そのフォーマットにしたがってデータを作成する必要があります。
 
@@ -67,10 +76,10 @@ Name: username
 "room_Village": "村"
 ```
 
-#### 2-2. ファイルを送る
+#### 2-3. ファイルを送る
 
 [@RIORAO](https://twitter.com/RIORAO)のDMかDiscord[ RAO(らお)#5959 ]に翻訳後のファイルをお送りください。
 
-#### 2-3. ファイルが採用されたときは
+#### 2-4. ファイルが採用されたときは
 
 翻訳協力者としてクレジットに掲載するために、掲載するニックネームを教えてください。
