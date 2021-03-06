@@ -1,4 +1,4 @@
-[![CI](https://github.com/rao-donut/tribal-hunter-translate-ja/actions/workflows/checkJSON.yml/badge.svg)](https://github.com/rao-donut/tribal-hunter-translate-ja/actions/workflows/checkJSON.yml)
+[![CI](https://github.com/rao-donut/tribal-hunter-translate-ja/actions/workflows/checkJSON.yml/badge.svg?branch=main)](https://github.com/rao-donut/tribal-hunter-translate-ja/actions/workflows/checkJSON.yml)
 
 # tribal-hunter-translate-ja
 
