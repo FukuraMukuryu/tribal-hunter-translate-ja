@@ -1,4 +1,4 @@
-[![CI](https://github.com/rao-donut/tribal-hunter-translate-ja/actions/workflows/checkJSON.yml/badge.svg)](https://github.com/rao-donut/tribal-hunter-translate-ja/actions/workflows/checkJSON.yml)
+[![CI](https://github.com/rao-donut/tribal-hunter-translate-ja/actions/workflows/checkJSON.yml/badge.svg?branch=main)](https://github.com/rao-donut/tribal-hunter-translate-ja/actions/workflows/checkJSON.yml)
 
 # tribal-hunter-translate-ja
 
@@ -13,6 +13,11 @@ Tribal Hunterの日本語訳公式リポジトリです。
 [Steam - Tribal Hunter](https://store.steampowered.com/app/1379870/Tribal_Hunter/)
 
 また、作業をする際に困った点などがございましたら[こちら](https://twitter.com/RIORAO)のDMにご連絡ください。
+
+### 0. 共通項目 - 翻訳されていないファイルを探す
+
+[こちら](https://github.com/rao-donut/tribal-hunter-translate-ja/issues)から課題の一覧を確認できます。
+作業がコンフリクトしないようにするため、翻訳するファイルが明確に決まりましたら、各Issueにコメントをしてください。
 
 ### 1. Gitが分かる人向け
 
