@@ -18,6 +18,7 @@ Tribal Hunterの日本語訳公式リポジトリです。
 
 [こちら](https://github.com/rao-donut/tribal-hunter-translate-ja/issues)から課題の一覧を確認できます。
 作業がコンフリクトしないようにするため、翻訳するファイルが明確に決まりましたら、各Issueにコメントをしてください。
+進行中のタスクは「**Processing**」ラベルがついています。
 
 ### 1. Gitが分かる人向け
 
