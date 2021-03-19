@@ -26,7 +26,7 @@
 		"room_PL11Rest": "森林エリア 11　秘密のキャンプ場",
 		"room_PL12": "森の空き地",
 		"room_PLFoxholeEntrance": "どこか怪しげな空き地",
-		"room_PLFoxhole": "隠れた狐たちの住処",	
+		"room_PLFoxhole": "狐たちの隠れ家",	
 		"room_PLPighideout1": "森林エリア 12　豚たちの隠れ里 入口",
 		"room_PLPighideout2": "森林エリア 13　豚たちの隠れ里",	
 		"room_PLBoarBoss": "Boaruの闘技場",		
