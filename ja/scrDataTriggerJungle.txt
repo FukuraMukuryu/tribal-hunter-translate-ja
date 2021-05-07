@@ -1,0 +1,27 @@
+{
+	"scr": 
+	{
+		"triggerjunglepirates1": "Those things are so creepy...",
+		"triggerjunglepirates2": "I think we need a few more barricades.",
+		"triggerjunglepirates3": "Urrr... Yeh....",
+		"triggerjunglepirates4": "We probably need sometin' stronger than wood.",
+		"triggerjunglepirates5": "They got quite the suckerpunch...",
+		"triggerYCHaltimos1": "Darn it, all this travel for that...",
+		"triggerYCHaltimos2": "Who's there?!",
+		"triggerYCHaltimos3": "Well what do you know.",
+		"triggerYCHaltimos4": "The first living thing that doesn't attack on sight.",
+		"triggerYCHaltimos5": "I could say the same for you, honestly.",
+		"triggerYCHaltimos6": "And you talk, even better.",
+		"triggerYCHaltimos7": "You have a name? Mine's Laura.",
+		"triggerYCHaltimos8": "Mine's Munch.",
+		"triggerYCHaltimos9": "What brings you way out here?",
+		"triggerYCHaltimos10": "Looking for fights mostly.",
+		"triggerYCHaltimos11": "I'm trying to be a top notch martial arts fighter.",
+		"triggerYCHaltimos12": "This island is known to have very LARGE competitors.",
+		"triggerYCHaltimos13": "I happen to be pretty good at that myself.",
+		"triggerYCHaltimos14": "For real?",
+		"triggerYCHaltimos15": "Then we must spar!",
+		"triggerYCHaltimos16": "Take all the time you need to prepare and tell me when you want to start.",
+		"EOF": "EOF"
+	},
+}
