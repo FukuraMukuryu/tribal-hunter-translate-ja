@@ -1,17 +1,17 @@
 {
-	"scr":
+	"scr": 
 	{
-		"triggergrannycafe1": "Well well well, if it isn't my knight in shining armor.",
-		"triggergrannycafe10": "Sure thing.",
-		"triggergrannycafe11": "Simply ask and I'll show you my menu!",
-		"triggergrannycafe2": "Good to see you!",
-		"triggergrannycafe3": "Hey! Glad you made it back okay!",
-		"triggergrannycafe4": "Does that mean the restaurant is open now?",
-		"triggergrannycafe5": "Of course!",
-		"triggergrannycafe6": "Look at all these guests...",
-		"triggergrannycafe7": "They seem to be happy with my down home cooking!",
-		"triggergrannycafe8": "Smells delicious!",
-		"triggergrannycafe9": "Can I try some?",
+		"triggergrannycafe1": "これは　これは　私のナイト様じゃないか",
+		"triggergrannycafe10": "もちろんだとも",
+		"triggergrannycafe11": "メニューを出すから　気軽に申し付けてごらん",
+		"triggergrannycafe2": "会えてうれしいよ",
+		"triggergrannycafe3": "無事に　帰ってこれたんだ！",
+		"triggergrannycafe4": "レストランがオープンしたって事だよね？",
+		"triggergrannycafe5": "もちろんさね",
+		"triggergrannycafe6": "彼らを見てごらんよ･･･",
+		"triggergrannycafe7": "私の料理を食べて　喜んでくれてるじゃないか",
+		"triggergrannycafe8": "ウマそうな匂いだ･･･",
+		"triggergrannycafe9": "食べてもいいかな！？",
 		"triggerartbunny1": "はじめまして！",
 		"triggerartbunny2": "村へようこしょ！　あなたの事は聞いてましゅ！",
 		"triggerartbunny3": "こちらこそ　はじめまして！",
@@ -41,7 +41,6 @@
 		"triggerartbunnyC9": "All of us have different tips and the guildmaster does the coloring.",
 		"triggerartbunnyC10": "Talk to any of us if you're interested in something!",
 		"triggerartbunnyC11": "Okay, thanks!",
-
 		"EOF": "EOF"
 	},
 }
