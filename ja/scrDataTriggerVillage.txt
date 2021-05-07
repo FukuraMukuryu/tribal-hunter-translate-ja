@@ -41,7 +41,6 @@
 		"triggerartbunnyC9": "All of us have different tips and the guildmaster does the coloring.",
 		"triggerartbunnyC10": "Talk to any of us if you're interested in something!",
 		"triggerartbunnyC11": "Okay, thanks!",
-		
 		"EOF": "EOF"
 	},
 }
