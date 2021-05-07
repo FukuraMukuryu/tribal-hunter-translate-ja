@@ -1,0 +1,35 @@
+{
+	"scr": 
+	{
+		"triggerldthrone1": "At least...",
+		"triggerldthrone10": "My purpose...",
+		"triggerldthrone2": "You are so close now...",
+		"triggerldthrone3": "Close to what?",
+		"triggerldthrone4": "What did I really come here for if not Darkdread?",
+		"triggerldthrone5": "You can feel it down below, can't you...",
+		"triggerldthrone6": "The throne hides a secret...",
+		"triggerldthrone7": "Take the plunge...",
+		"triggerldthrone8": "This is your moment, the culmination...",
+		"triggerldthrone9": "Don't abandon your purpose...",
+		"triggerYCHkobold1": "Halt there, newcomer!",
+		"triggerYCHkobold10": "Also his mom makes the best cookies... Master shares them with us sometimes.",
+		"triggerYCHkobold11": "Sorry, but I can't bear his evil deeds as a guardian of this island.",
+		"triggerYCHkobold12": "I need to deal with him for my village.",
+		"triggerYCHkobold13": "Please, can't you two talk it out first. He really is a nice guy once you get to know him.",
+		"triggerYCHkobold14": "He has really shown me great kindness... he can be quite the big softie.",
+		"triggerYCHkobold15": "I already tried that before.",
+		"triggerYCHkobold16": "He himself said he didn't have time to talk to me and just beat me up.",
+		"triggerYCHkobold17": "Well if that's how it's going to be.",
+		"triggerYCHkobold18": "You... you... you're gonna have to go through me first!",
+		"triggerYCHkobold2": "Ahh, first guard of the castle eh?",
+		"triggerYCHkobold3": "I'm Darkdread's proud kobold minion!",
+		"triggerYCHkobold4": "I got a mission to serve him here in this castle!",
+		"triggerYCHkobold5": "Oh well, I'm actually here to fight him.",
+		"triggerYCHkobold6": "Do you know where he is?",
+		"triggerYCHkobold7": "What?! Please don't hurt the master!",
+		"triggerYCHkobold8": "He is really nice when you get to know him.",
+		"triggerYCHkobold9": "He took me in, gave me a job and food...",
+		"EOF": "EOF"
+		
+	},
+}
