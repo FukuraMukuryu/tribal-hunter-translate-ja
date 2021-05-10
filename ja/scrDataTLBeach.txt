@@ -92,7 +92,7 @@
 		"TLdiagYCHplushdualA12": "ボクはちょっと　食べ過ぎちゃって　はははっ･･･",
 		"TLdiagYCHplushdualA13": "食べ過ぎると　大きくなりすぎて　動けなるぞ？ハハッ！",
 		"TLdiagYCHplushdualA14": "ほう･･･大きくなりすぎて　動けなくと？",
-		"TLdiagYCHplushdualA15": "･･･ちょっとした秘密を　教えますよ　ちょっとこちらに　来てください,
+		"TLdiagYCHplushdualA15": "･･･ちょっとした秘密を　教えますよ　ちょっとこちらに　来てください",
 		"TLdiagYCHplushdualA2": "あはは　よく見つけましたね　正直に言うとですね･･･",
 		"TLdiagYCHplushdualA3": "俺たち　自分の島の守護者なんだ",
 		"TLdiagYCHplushdualA4": "はい　僕は数年前に　自分を召喚した島の人たちを助けて　自分の島を離れたんです",

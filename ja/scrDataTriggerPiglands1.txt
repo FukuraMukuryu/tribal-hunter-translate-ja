@@ -65,7 +65,7 @@
 		"triggeraltarcat11": "ハァーーーイ！",
 		"triggeraltarcat12": "はじめましてニャーーー！",
 		"triggeraltarcat13": "やぁ！　初めましてネコさん",
-		"triggeraltarcat14": "君は一体？,
+		"triggeraltarcat14": "君は一体？",
 		"triggeraltarcat15": "ワタクシ　島中の面白いモノを探す　冒険家ギルドの者ですニャー！",
 		"triggeraltarcat16": "冒険家ギルドは　この先まっすぐですニャー！",
 		"triggeraltarcat17": "アニャタも　冒険家をめざすなら　ぜひともチェックですニャー！",
