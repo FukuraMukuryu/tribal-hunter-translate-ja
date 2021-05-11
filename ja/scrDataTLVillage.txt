@@ -190,7 +190,7 @@
 		"TLdiageldermushcapA3": "洞窟にいるスライムの王ならば　其方が必要とする答えを持っている",
 		"TLdiageldermushcapB1": "キノコの力が　感じられないとな？",
 		"TLdiageldermushcapB2": "もっと伸ばすのであれば　肉体的な儀式が必要になるな",
-		"TLdiageldermushcapB3": "「早食いコンテスト」はどうだ？",
+		"TLdiageldermushcapB3": "「大食いコンテスト」はどうだ？",
 		"TLdiageldermushcapB4": "「ノース・ビーチ」にいる　ある女性が　コンテストの勧誘をしている",
 		"TLdiageldermushcapBB4": "この村を訪れている　ある女性が　コンテストの勧誘をしている",
 		"TLdiageldermushcapC1": "キノコの力が　感じられないとな？",

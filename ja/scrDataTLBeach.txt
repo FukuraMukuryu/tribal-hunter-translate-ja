@@ -194,7 +194,7 @@
 		"TLdiagYCHsugarmeet6": "ワタクシ　「シュガー」と申します",
 		"TLdiagYCHsugarmeet7": "あなたは？",
 		"TLdiagYCHsugarmeet8": "オイラは「マンチ」　南にある村の守護者だよ",
-		"TLdiagYCHsugarmeet9": "ワタクシ　毎年その村で毎年恒例の「早食いコンテスト」を見ています",
+		"TLdiagYCHsugarmeet9": "ワタクシ　毎年その村で毎年恒例の「大食いコンテスト」を見ています",
 		"TLdiagbeachfirsttime1": "とうちゃーく",
 		"TLdiagbeachfirsttime2": "ここが「ノース・ビーチ」やで",
 		"TLdiagbeachfirsttime3": "ここいらにゃ　海賊がぎょーさんおるんや",
