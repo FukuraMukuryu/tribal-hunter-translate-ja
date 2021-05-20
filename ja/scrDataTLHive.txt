@@ -1,13 +1,13 @@
 {
 	"scr": 
 	{
-		"TLdiagYCHsqueakpostfightwinB1": "Urf... Not again...",
-		"TLdiagYCHsqueakpostfightwinB2": "That was pretty fun!",
-		"TLdiagYCHsqueakpostfightwinB3": "I'll get you next time, ya' hear?",
+		"TLdiagYCHsqueakpostfightwinB1": "おうふ･･･またかいな･･･",
+		"TLdiagYCHsqueakpostfightwinB2": "いやー　楽しかったよ！",
+		"TLdiagYCHsqueakpostfightwinB3": "次こそは　必ず捕まえたる･･･！",
 		"TLdiagYCHsqueakpostfightwin1": "あたぁ！？なんやて･･･！？",
 		"TLdiagYCHsqueakpostfightwin10": "検討はすっけど･･･乗っからないって事は約束できへんかも･･･",
 		"TLdiagYCHsqueakpostfightwin2": "へへっ　この勝負もらったよ！",
-		"TLdiagYCHsqueakpostfightwin3": "オメェさん･･･守護霊か何かかいな？",
+		"TLdiagYCHsqueakpostfightwin3": "オメェさん･･･守護霊か　何かかいな？",
 		"TLdiagYCHsqueakpostfightwin4": "というか　そうでなきゃ　そんなパワーは･･･ええい　面倒や",
 		"TLdiagYCHsqueakpostfightwin5": "何はともあれ･･･面白かったで",
 		"TLdiagYCHsqueakpostfightwin6": "もしよかったら　オイラの友達が住んでる村に　行ってみない？",
