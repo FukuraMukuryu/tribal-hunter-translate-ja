@@ -48,7 +48,7 @@
 		"TLdiagYCHredcatwho7": "さて　あんたの話だが",
 		"TLdiagYCHredcatwho8": "オレがココに来た時　すでにあんたの事は聞いたんだ",
 		"TLdiagYCHredcatwho9": "あんたが村の守護者っていうのは　ホントか？",			
-		"TLdiagcavegem1": "へー　なんて立派なダイヤモンダなんだ！",
+		"TLdiagcavegem1": "へー　なんて立派なダイヤモンドなんだ！",
 		"TLdiagcavegem2": "ワニのおっちゃんが　これを探していたに　違いない",
 		"TLdiagcavegem3": "ビーチへ戻ろう！",
 		"TLdiagcavegem4": "かなり貴重に見えるし　「ピグ」達が狙っていたのも　無理はないな",
