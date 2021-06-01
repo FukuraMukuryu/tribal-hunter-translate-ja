@@ -512,5 +512,5 @@
 		"TLdiagyisyafinalspirit15": "The moment might feel dire... but it must be part of a greater plan...",
 		"TLdiagyisyafinalspirit16": "One that you're the star player in!",
 		"EOF": "EOF"
-	},
+	}
 }

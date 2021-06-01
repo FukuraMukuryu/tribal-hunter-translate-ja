@@ -105,5 +105,5 @@
 		"TLdiagmushroomcap2": "なんでだろう？",
 		"TLdiagmushroomcap3": "あのリザードマンのじいさんに　聞いてみるか･･･",
 		"EOF": "EOF"
-	},
+	}
 }

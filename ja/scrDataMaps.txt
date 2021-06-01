@@ -143,5 +143,5 @@
 		"room_MOUNTAINWHITESPIRITFIGHT2": "神聖なる高原",		
 		"room_MOUNTAINSPIRITEVENT": "神聖なる高原",
 		"EOF": "EOF"
-	},
+	}
 }

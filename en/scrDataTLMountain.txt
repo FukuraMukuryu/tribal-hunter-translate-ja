@@ -218,5 +218,5 @@
 		"triggerdiagwolfbosspre8": "...I gotta pay you back for that insult...",
 		"triggerdiagwolfbosspre9": "I'll make this quick.",
 		"EOF": "EOF"
-	},
+	}
 }

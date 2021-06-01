@@ -316,5 +316,5 @@
 		"TLdiagtoriflytoboss1": "Ready to go, guardian?",
 		"TLdiagtoriflytoboss2": "Make sure you're completely ready!",
 		"EOF": "EOF"
-	},
+	}
 }

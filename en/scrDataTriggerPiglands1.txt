@@ -300,5 +300,5 @@
 		"triggerwhitespiritPL8": "Well, THAT wasn't wierd at all...",
 		"triggerwhitespiritPL9": "Who the heck was that?",
 		"EOF": "EOF"
-	},
+	}
 }

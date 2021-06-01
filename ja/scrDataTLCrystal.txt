@@ -101,5 +101,5 @@
 		"TLdiagcrystalbossdefeated2": "重大ナ損傷ヲ確認･･･",
 		"TLdiagcrystalbossdefeated3": "緊急･･･停止･･･スル",
 		"EOF": "EOF"
-	},
+	}
 }

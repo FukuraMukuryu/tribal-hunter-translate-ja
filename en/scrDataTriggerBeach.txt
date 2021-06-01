@@ -103,5 +103,5 @@
 		"triggerswordfishmeet4": "Haha... You don't look so tough you walking knitting needle.",
 		"triggerswordfishmeet5": "Ye be askin' for an early grave, then!",
 		"EOF": "EOF"
-	},
+	}
 }

@@ -103,5 +103,5 @@
 		"triggerswordfishmeet4": "へぇ･･･細い針を持って歩くなんて　それほどタフじゃないんだな",
 		"triggerswordfishmeet5": "テメェ　いてこましたる！！！",
 		"EOF": "EOF"
-	},
+	}
 }

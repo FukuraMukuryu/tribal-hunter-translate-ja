@@ -510,5 +510,5 @@
 		"cinemopend8": "Is it really?",
 		"cinemopend9": "I guess I was expecting something more...",
 		"EOF": "EOF"
-	},
+	}
 }

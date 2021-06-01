@@ -321,5 +321,5 @@
 		"TLdiagresortsharktwo2": "What's the secret?",
 		"TLdiagresortsharktwo3": "The secret is minced onions and just the right amount of Teriyaki sauce.",
 		"EOF": "EOF"
-	},
+	}
 }

@@ -63,5 +63,5 @@
 		"TLdiagslimekingtinyA2": "かくごは　できたか？",
 		"TLdiagtipcaverns1": "素敵なヒントがございますよ　拝見しますか？",
 		"EOF": "EOF"
-	},
+	}
 }

@@ -63,5 +63,5 @@
 		"TLdiagslimekingtinyA2": "Are ya ready?",
 		"TLdiagtipcaverns1": "I've got some beautiful tips! Wanna see?",
 		"EOF": "EOF"
-	},
+	}
 }

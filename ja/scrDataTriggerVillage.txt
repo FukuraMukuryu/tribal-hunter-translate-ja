@@ -43,5 +43,5 @@
 		"triggerartbunnyC11": "OK ありがとう！",
 		
 		"EOF": "EOF"
-	},
+	}
 }

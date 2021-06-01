@@ -105,5 +105,5 @@
 		"TLdiagmushroomcap2": "I wonder why?",
 		"TLdiagmushroomcap3": "Maybe the village elder knows.",
 		"EOF": "EOF"
-	},
+	}
 }
