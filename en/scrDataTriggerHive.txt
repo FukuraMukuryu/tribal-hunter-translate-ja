@@ -91,5 +91,5 @@
 		"triggersacredcow8": "It appears we have gained another offering.",
 		"triggersacredcow9": "Engage!",
 		"EOF": "EOF"
-	},
+	}
 }

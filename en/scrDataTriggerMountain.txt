@@ -197,5 +197,5 @@
 		"triggerwhitespiritmountain6": "Details would be nice!",
 		"triggerwhitespiritmountain7": "Just remember... what seems to be the end, isn't always the end.",
 		"EOF": "EOF"
-	},
+	}
 }

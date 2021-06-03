@@ -91,5 +91,5 @@
 		"triggersacredcow8": "我々は　新たな提案を行う",
 		"triggersacredcow9": "戦闘開始！",
 		"EOF": "EOF"
-	},
+	}
 }

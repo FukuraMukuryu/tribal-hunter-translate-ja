@@ -143,5 +143,5 @@
 		"room_MOUNTAINWHITESPIRITFIGHT2": "Sacred Plateau",		
 		"room_MOUNTAINSPIRITEVENT": "Sacred Plateau",
 		"EOF": "EOF"
-	},
+	}
 }

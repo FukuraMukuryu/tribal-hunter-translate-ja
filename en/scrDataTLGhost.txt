@@ -88,5 +88,5 @@
 		"TLdiagghostychat1": "Oh... What did you need...?",
 		"TLdiagtipghost1": "Lookin' to view some of my tips?",
 		"EOF": "EOF"
-	},
+	}
 }

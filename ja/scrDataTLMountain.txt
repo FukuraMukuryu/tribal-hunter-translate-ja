@@ -218,5 +218,5 @@
 		"triggerdiagwolfbosspre8": "重罪だ　プライド　傷つけた",
 		"triggerdiagwolfbosspre9": "思い知れ　雷の力　体で！！",
 		"EOF": "EOF"
-	},
+	}
 }

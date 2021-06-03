@@ -227,5 +227,5 @@
 		"tvepF7": "Mua ha ha ha ha!",
 		"tvepF8": "Urrgh...",
 		"tvepF9": "I... huff..."
-	},
+	}
 }

@@ -197,5 +197,5 @@
 		"triggerwhitespiritmountain6": "詳しく教えてくれたって　いいだろ！",
 		"triggerwhitespiritmountain7": "そして忘れないでください　終わりの様に見えるものが　必ずしも終わりではないという事を･･･",
 		"EOF": "EOF"
-	},
+	}
 }

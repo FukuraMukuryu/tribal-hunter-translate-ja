@@ -88,5 +88,5 @@
 		"TLdiagghostychat1": "アア･･･何ガ　必要ダッタンダロウ･･･？",
 		"TLdiagtipghost1": "私のヒントを　見ていきませんか･･･？",
 		"EOF": "EOF"
-	},
+	}
 }

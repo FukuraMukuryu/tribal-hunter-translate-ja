@@ -101,5 +101,5 @@
 		"TLdiagcrystalbossdefeated2": "Core critical...",
 		"TLdiagcrystalbossdefeated3": "Shutting down...",
 		"EOF": "EOF"
-	},
+	}
 }

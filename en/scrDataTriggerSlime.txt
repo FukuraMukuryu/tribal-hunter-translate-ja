@@ -82,5 +82,5 @@
 		"triggerslimekingroom8": "Just stop harrassing the islanders and helping the pigs.",
 		"triggerslimekingroom9": "Psh... It's not like I even want to.",
 		"EOF": "EOF"
-	},
+	}
 }

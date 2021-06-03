@@ -40,5 +40,5 @@
 		"TLdiagbeequeenpostfight8": "お金持ち･･･って事？",
 		"TLdiagbeequeenpostfight9": "ああ･･･口を閉じておくべきだった",
 		"EOF": "EOF"
-	},
+	}
 }

@@ -40,5 +40,5 @@
 		"TLdiagbeequeenpostfight8": "Riches you say...?",
 		"TLdiagbeequeenpostfight9": "Oof... I should have kept my mouth shut...",
 		"EOF": "EOF"
-	},
+	}
 }

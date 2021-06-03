@@ -23,5 +23,5 @@
 		"triggerYCHaltimos15": "ならば　少し手合わせ願おうか",
 		"triggerYCHaltimos16": "準備が出来たら　教えてくれ",
 		"EOF": "EOF"
-	},
+	}
 }

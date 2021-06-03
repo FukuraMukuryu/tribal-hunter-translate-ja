@@ -78,5 +78,5 @@
 		"TLdiagwhitespiritbtoc2": "But you will still fail...",
 		"TLdiagwhitespiritbtoc3": "As you were destined to...",
 		"EOF": "EOF"
-	},
+	}
 }

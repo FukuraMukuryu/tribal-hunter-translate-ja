@@ -31,5 +31,5 @@
 		"triggerYCHkobold9": "He took me in, gave me a job and food...",
 		"EOF": "EOF"
 		
-	},
+	}
 }

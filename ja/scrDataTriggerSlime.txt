@@ -82,5 +82,5 @@
 		"triggerslimekingroom8": "ただ　村のみんなを困らせたり　ピグ達の協力をやめてくればいい",
 		"triggerslimekingroom9": "ちんとて　のぞんでやったわけでは　ないのだ！",
 		"EOF": "EOF"
-	},
+	}
 }

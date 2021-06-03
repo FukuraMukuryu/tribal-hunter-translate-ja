@@ -315,5 +315,5 @@
 		"yisyaw4tori1": "Thanks for the help Munch!",
 		"yisyaw4tori2": "I'll fly back with To-Ri in a bit!",
 		"EOF": "EOF"
-	},
+	}
 }

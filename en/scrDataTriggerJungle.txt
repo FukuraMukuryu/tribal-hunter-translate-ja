@@ -23,5 +23,5 @@
 		"triggerYCHaltimos15": "Then we must spar!",
 		"triggerYCHaltimos16": "Take all the time you need to prepare and tell me when you want to start.",
 		"EOF": "EOF"
-	},
+	}
 }

@@ -78,5 +78,5 @@
 		"TLdiagwhitespiritbtoc2": "でもあなたは負ける...",
 		"TLdiagwhitespiritbtoc3": "あなたが運命づけられていたように...",
 		"EOF": "EOF"
-	},
+	}
 }
