@@ -30,5 +30,6 @@
 		"triggerYCHkobold8": "彼は知り合うと本当にいいやつなんだ。",
 		"triggerYCHkobold9": "おれを受け入れ、仕事と食事を与えてくれた...",
 		"EOF": "EOF"
+		
 	}
 }
