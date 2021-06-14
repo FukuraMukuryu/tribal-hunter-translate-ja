@@ -26,7 +26,7 @@
 		"triggerhoodedcow6": "夕食は　サーロインステーキだぜ",
 		"triggerhoodedcow7": "おーっと　見てみろよ",
 		"triggerhoodedcow8": "珍獣が　ノコノコとやってきたぞ！",
-		"triggerhoodedcow9": "ノコノコとやってきたって？",
+		"triggerhoodedcow9": "ノコノコと　やってきたって？",
 		"triggerwhitespiritcaverns1": "ここのエネルギーは　貴方に寛ぎを与えます　感じますか？",
 		"triggerwhitespiritcaverns2": "また　あなたか？",
 		"triggerwhitespiritcaverns3": "島の心臓は　全ての物に命を吹き込みます",
