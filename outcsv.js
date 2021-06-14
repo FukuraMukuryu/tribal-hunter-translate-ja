@@ -31,7 +31,7 @@ const files = [
 
 let sentenceCount = 0;
 let translatedCount = 0;
-let outData = 'key, ja, en\n';
+let outData = 'key, ja, en, translated\n';
 
 for (let i = 0; i < files.length; i++) {
   const readFileName = `${files[i]}.txt`;
@@ -40,9 +40,10 @@ for (let i = 0; i < files.length; i++) {
   const jsonEn = JSON.parse(fs.readFileSync(`./en/${readFileName}`, 'utf8')).scr;
 
   for (const key in jsonJa) {
-    outData += `${key}, "${jsonJa[key]}", "${jsonEn[key]}"\n`;
+    const translated = jsonJa[key] !== jsonEn[key] ? 1 : 0;
+    outData += `${key}, "${jsonJa[key]}", "${jsonEn[key]}", ${translated}\n`;
     sentenceCount++;
-    translatedCount += jsonJa[key] !== jsonEn[key] ? 1 : 0;
+    translatedCount += translated;
   }
 }
 
