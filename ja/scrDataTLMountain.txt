@@ -90,7 +90,7 @@
 		"TLdiagfoxmancpostfight8": "僕の　とっておきの魔法･･･「ミラー・マジック」だ",
 		"TLdiagfoxmancpostfight9": "この知識があれば　時に飛ばせるものを　二つにすることが出来るのさ",
 		"TLdiagshifuask1": "儂の　修行を受ける準備が　出来たようじゃな",
-		"TLdiagshifuaskB1": "要領不足のようじゃな",
+		"TLdiagshifuaskB1": "力不足のようじゃな",
 		"TLdiagshifuaskB2": "其方のキャパシティを 950 以上にしてから　戻ってくるのじゃ",
 		"TLdiagshifucomplete1": "儂が教える事は　もうない",
 		"TLdiagshifucomplete2": "其方に残された　成長の旅は　其方自身の手で開け",

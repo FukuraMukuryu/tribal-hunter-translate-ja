@@ -41,7 +41,6 @@
 		"triggerartbunnyC9": "みなしゃんが異なるヒントを持ち　ギルドマスターは色付けを担当しましゅ！",
 		"triggerartbunnyC10": "興味がありましたら　おきがるに　ごしょうだんしてくだしゃい！",
 		"triggerartbunnyC11": "OK ありがとう！",
-		
 		"EOF": "EOF"
 	}
 }
