@@ -27,7 +27,7 @@
 		"triggerfoxcaveB1": "よくやりとげたねぇ",
 		"triggerfoxcaveB2": "僕のアドバイスは　役に立ったろ？",
 		"triggerfoxcaveB3": "フッフッフ･･･",
-		"triggerfoxcaveB4": "オマエ　からかってるだけだろ　このペテン師！",
+		"triggerfoxcaveB4": "オマエ　からかってるだけだろ　このインチキキツネ！",
 		"triggerfoxcaveB5": "バカなぬいぐるみ･･･",
 		"triggerfoxcaveB6": "本当に　僕に敵うとでも　思ってるのかい？",
 		"triggerfoxcaveB7": "それじゃあ　証明させようじゃないか",

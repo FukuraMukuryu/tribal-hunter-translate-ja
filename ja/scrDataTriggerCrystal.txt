@@ -11,7 +11,7 @@
 		"triggerdyegirlrescue14": "あちゃー･･･",
 		"triggerdyegirlrescue15": "こいつは予想外だね･･･",
 		"triggerdyegirlrescue16": "気をつけておくれ！",
-		"triggerdyegirlrescue2": "なんてキラメキなんだい！",
+		"triggerdyegirlrescue2": "なんてキラメキなんだろうねぇ",
 		"triggerdyegirlrescue3": "ちょっとすみません",
 		"triggerdyegirlrescue6": "そんな事より　観てごらんよ　この煌びやかな色合いを･･･",
 		"triggerdyegirlrescue7": "実に絶妙じゃないか！",

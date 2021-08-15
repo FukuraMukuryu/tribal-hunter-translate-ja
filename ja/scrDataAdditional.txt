@@ -1,0 +1,31 @@
+{
+	"scr": {
+		"uiWSAD": "人形に受肉してください　'WSAD'または矢印キーで動きます",
+		"spiritcover1": "Woah! I think you should take cover!",
+		"spiritcover2": "Yer about to be fried if ya don't hide!",
+		"spiritcover3": "Aharr! Better duck and cover!",
+		"spiritcover4": "Things look dicey... Better get behind somethin'!",
+		"spiritcover5": "I'd take cover if I were you!",
+		"spiritcover6": "Woah, Munch! Quick! Hide!",
+		"spiritfood1": "Hey buddy! I brought some food for you! This should help!",
+		"spiritfood2": "Gah, are you getting your ass kicked? Here's some help!",
+		"spiritfood3": "Arr, You cannot fail at here... Keep fighting!",
+		"spiritfood4": "Hu hu, looks like I wasn't mistaken. That's the REAL enemy. I got some presents for you!",
+		"spiritfood5": "I got some food for you! It's on me!",
+		"spiritfood6": "This is at least I can do for you… You can do it!",
+		"choiceAltimosinflate": "Teach me!",
+		"laurapower1": "そうだ！オイラも呼吸法について学びたい！",
+		"laurapower2": "よし任せろ　この技は　今よりも空気を吸うのが　早くなるぞ",
+		"laurapower3": "だが　くれぐれも扱いには気をつけてな",
+		"laurapower4": "ありがとう！早く大きくなりたいときに　役立てそうだ！",
+		"popuplaurainhale": "「急速呼吸法」を覚えた！吸い込み中に呪文ボタンを押すと　素早く呼吸できるようになった！",
+		"plushgrayE1": "俺の弱点を誰にも言わない！って約束してくれるなら･･･いいものあげるからよ",
+		"plushgrayE2": "このお守りは　オマエさんに幸運をもたらす　ひょっとしたらコインがあふれるかもな",
+		"plushgrayE3": "頼むぜ･･･もう鼻を触るのは　よしてくれよな？",
+		"popupkitaminose": "「キタミの鼻ボタン」を手に入れた！近くのコインを引き寄せられるようになった！",
+		"dogchat1": "この子が　怖がっちゃうかも･･･",
+		"dogchat2": "もっと小さくなってから　撫でてみるか",
+		
+		"EOF": "EOF"
+	},
+}
